@@ -1,10 +1,10 @@
-# Hi, I'm Pablo 👋
+# Pablo Estrella
 
 **Audio Engineer · Music Producer · Creative Technologist**
 
 I'm an Audio Engineer, Music Producer and Creative Technologist based in Madrid, Spain, with 10+ years of experience in professional audio production.
 
-My work spans recording, editing, mixing, mastering, audio post-production and live audio, with experience across music, television and live productions.
+My work spans recording, editing, mixing, mastering, audio post-production and live audio, with experience across music, television, broadcast and live productions.
 
 I'm currently exploring the intersection of **audio engineering, AI and creative technology**, with a particular interest in voice, audio analysis and AI-assisted production workflows.
 
@@ -17,7 +17,7 @@ I'm currently exploring the intersection of **audio engineering, AI and creative
 - 🎛️ Creative audio workflows
 - 🔬 Audio quality control and signal analysis
 
-## Current Project
+## Featured Project
 
 ### Audio AI Experiments
 
